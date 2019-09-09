@@ -1,7 +1,8 @@
 Lauren Shin's discrete motion planners!
 ========================================
+The robot lives in a 2D grid environment in which every cell is either occupied or free. These motion planners allow the robot to navigate between any two free cells in its environment.
 
-code
+Code
 -----
 
 Two planners, random and optimal, are found in `planner.py`.
@@ -10,18 +11,11 @@ There are two sets of `unittest` tests. `test_Planner.py` tests the `search` met
 
 There is one file `timing.py` that tests runtime and path length for both search methods in `planner.py`.
 
-input files
+Input files
 -----------
 The `input` folder contains a few NumPy array files containing cool discretized world states. `test_maze()` in `test_Planner.py` demonstrates how a planner can be used to navigate in a NumPy array file.
 
-documentation
+Documentation
 --------------
-Open html documentation by running 
-```
-$ open docs/_build/html/index.html
-```
-or manually open the path to index.html in your browser.
+You can find documentation and more information [here](https://motion-planning.readthedocs.io/en/latest/). 
 
-You should hire me!
---------------------
-(I love robots)
