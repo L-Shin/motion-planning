@@ -19,7 +19,7 @@ sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
-project = u'Shin-Lauren'
+project = u'Motion Planning'
 copyright = u'2019, Lauren Shin'
 author = u'Lauren Shin'
 
