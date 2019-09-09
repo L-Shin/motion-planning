@@ -1,4 +1,4 @@
-Lauren Shin's discrete motion planners!
+[Lauren Shin's discrete motion planners!](https://motion-planning.readthedocs.io/en/latest/)
 ========================================
 The robot lives in a 2D grid environment in which every cell is either occupied or free. These motion planners allow the robot to navigate between any two free cells in its environment.
 
